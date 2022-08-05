@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dimaniagara/goit-react-hw-01-components/static/css/main.3d8aa96d.css",
+    "main.js": "/dimaniagara/goit-react-hw-01-components/static/js/main.acaf3f8d.js",
+    "index.html": "/dimaniagara/goit-react-hw-01-components/index.html",
+    "main.3d8aa96d.css.map": "/dimaniagara/goit-react-hw-01-components/static/css/main.3d8aa96d.css.map",
+    "main.acaf3f8d.js.map": "/dimaniagara/goit-react-hw-01-components/static/js/main.acaf3f8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d8aa96d.css",
+    "static/js/main.acaf3f8d.js"
+  ]
+}
